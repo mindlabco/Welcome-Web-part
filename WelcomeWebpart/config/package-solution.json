@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "welcome-webpart-client-side-solution",
+    "id": "db866d35-9e8d-407e-8175-a1556169e92f",
+    "version": "2.0.0.1",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/welcome-webpart.sppkg"
+  }
+}
